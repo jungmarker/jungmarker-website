@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion'
 
 const STATS = [
-  { v: '127+', l: 'Homes Sold'  },
-  { v: '$48M',  l: 'Volume'     },
-  { v: '6',     l: 'Avg. DOM'   },
-  { v: '5.0',   l: 'Google Rating' },
+  { v: '47+',  l: 'Client Reviews' },
+  { v: '5.0',  l: 'Google Rating'  },
+  { v: '6',    l: 'Avg. Days Listed' },
+  { v: '100%', l: 'Dedication'     },
 ]
 
 const BALT_NEIGHBORHOODS = [
