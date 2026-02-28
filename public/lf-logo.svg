@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 168" role="img" aria-label="Long & Foster Real Estate">
+  <rect width="240" height="168" fill="#1B2744"/>
+  <rect x="10" y="10" width="220" height="148" fill="none" stroke="rgba(255,255,255,0.55)" stroke-width="1.4"/>
+  <text
+    x="120" y="82"
+    font-family="'Times New Roman',Georgia,serif"
+    font-size="24" font-weight="bold" fill="white"
+    text-anchor="middle" letter-spacing="2.5">LONG &amp; FOSTER<tspan font-size="13" dy="-10" dx="1.5">®</tspan>
+  </text>
+  <line x1="26" y1="100" x2="88" y2="100" stroke="rgba(255,255,255,0.6)" stroke-width="1"/>
+  <text
+    x="120" y="120"
+    font-family="'Times New Roman',Georgia,serif"
+    font-size="14" fill="white"
+    text-anchor="middle" letter-spacing="6">REAL ESTATE
+  </text>
+  <line x1="152" y1="100" x2="214" y2="100" stroke="rgba(255,255,255,0.6)" stroke-width="1"/>
+</svg>

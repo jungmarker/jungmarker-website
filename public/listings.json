@@ -1,0 +1,117 @@
+{
+  "_readme": "UPDATE THIS FILE to keep listings current. The site fetches it at runtime — no rebuild needed. Copy address/price/details from your Zillow profile at https://www.zillow.com/profile/nickjungmarker6",
+  "_zillowProfile": "https://www.zillow.com/profile/nickjungmarker6",
+
+  "active": [],
+
+  "sold": [
+    {
+      "id": 1,
+      "address": "12421 Melling Ln",
+      "city": "Bowie, MD 20715",
+      "neighborhood": "Bowie",
+      "county": "Prince George's County",
+      "salePrice": 487500,
+      "listPrice": 487500,
+      "daysOnMarket": 0,
+      "soldDate": "Jan 2026",
+      "imgUrl": null
+    },
+    {
+      "id": 2,
+      "address": "1225 Glyndon Ave",
+      "city": "Baltimore, MD 21223",
+      "neighborhood": "Baltimore City",
+      "county": "Baltimore City",
+      "salePrice": 210000,
+      "listPrice": 210000,
+      "daysOnMarket": 0,
+      "soldDate": "Jan 2026",
+      "imgUrl": null
+    },
+    {
+      "id": 3,
+      "address": "524 E 27th St",
+      "city": "Baltimore, MD 21218",
+      "neighborhood": "Baltimore City",
+      "county": "Baltimore City",
+      "salePrice": 219000,
+      "listPrice": 219000,
+      "daysOnMarket": 0,
+      "soldDate": "Dec 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 4,
+      "address": "706 W 34th St",
+      "city": "Baltimore, MD 21211",
+      "neighborhood": "Hampden",
+      "county": "Baltimore City",
+      "salePrice": 368500,
+      "listPrice": 368500,
+      "daysOnMarket": 0,
+      "soldDate": "Dec 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 5,
+      "address": "1009 S Baylis St",
+      "city": "Baltimore, MD 21224",
+      "neighborhood": "Baltimore City",
+      "county": "Baltimore City",
+      "salePrice": 618000,
+      "listPrice": 618000,
+      "daysOnMarket": 0,
+      "soldDate": "Dec 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 6,
+      "address": "1714 Dearbought Dr",
+      "city": "Frederick, MD 21701",
+      "neighborhood": "Frederick",
+      "county": "Frederick County",
+      "salePrice": 640000,
+      "listPrice": 640000,
+      "daysOnMarket": 0,
+      "soldDate": "Nov 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 7,
+      "address": "12206 Lemar Ct",
+      "city": "Silver Spring, MD 20904",
+      "neighborhood": "Silver Spring",
+      "county": "Montgomery County",
+      "salePrice": 665000,
+      "listPrice": 665000,
+      "daysOnMarket": 0,
+      "soldDate": "Oct 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 8,
+      "address": "5601 Parker House Ter #214",
+      "city": "Hyattsville, MD 20782",
+      "neighborhood": "Hyattsville",
+      "county": "Prince George's County",
+      "salePrice": 87000,
+      "listPrice": 87000,
+      "daysOnMarket": 0,
+      "soldDate": "Oct 2025",
+      "imgUrl": null
+    },
+    {
+      "id": 9,
+      "address": "1836 Metzerott Rd #1717",
+      "city": "Adelphi, MD 20783",
+      "neighborhood": "Adelphi",
+      "county": "Prince George's County",
+      "salePrice": 75000,
+      "listPrice": 75000,
+      "daysOnMarket": 0,
+      "soldDate": "Sep 2025",
+      "imgUrl": null
+    }
+  ]
+}
