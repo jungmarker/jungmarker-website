@@ -39,8 +39,8 @@ export default function About() {
             </motion.h2>
           </div>
           <motion.p {...fade(0.1)} className="font-body font-light text-lg text-ash max-w-xs md:text-right leading-relaxed">
-            A decade in Maryland real estate.<br />
-            Baltimore City &amp; Montgomery County.
+            Serving Baltimore City, Montgomery County,<br />
+            and all of Maryland.
           </motion.p>
         </div>
 
@@ -61,7 +61,6 @@ export default function About() {
               <div className="mt-4 space-y-2">
                 {[
                   'MD License #5017475',
-                  'Certified Negotiation Expert (CNE)',
                   'Long & Foster Real Estate',
                   'Bilingual — English / Español',
                 ].map((c) => (
@@ -77,19 +76,18 @@ export default function About() {
           {/* Middle: bio */}
           <motion.div {...fade(0.12)} className="md:col-span-5 space-y-7">
             <p className="section-body-dark">
-              I've been selling Maryland real estate for over a decade, specializing
-              in Baltimore City's historic rowhome neighborhoods and Montgomery County's
-              top suburbs — from Bolton Hill to Bethesda, Federal Hill to Potomac.
+              I serve buyers, sellers, and investors across Baltimore City, Montgomery
+              County, and the rest of Maryland — from historic rowhome neighborhoods
+              like Fells Point and Federal Hill to the suburbs of Bethesda and Silver Spring.
             </p>
             <p className="section-body-dark">
-              My approach is direct: deep local knowledge, honest advice, and aggressive
-              negotiation on your behalf. I grew up in this state and I want you to
-              love it as much as I do.
+              Whether you're buying your first home, ready to sell, or looking to grow a
+              portfolio, I'm in your corner. I negotiate hard for every client — the same
+              way I would if it were my own home on the line.
             </p>
             <p className="section-body-dark">
-              Whether you're buying your first rowhome in Baltimore, upsizing to a
-              Montgomery County colonial, or building a multi-property portfolio — I know
-              both markets from the inside.
+              Honest advice, local knowledge, and a commitment to getting you the
+              best possible deal. That's what you'll get every time.
             </p>
 
             {/* Spanish callout */}
